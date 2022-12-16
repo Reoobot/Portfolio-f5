@@ -5,4 +5,4 @@ export const getPortfolios = ()=> portfolioData
 
 export const getProjects = ()=> portfolioData.projects
 
-export const addProject = (project) => 
+// export const addProject = (project) =>
