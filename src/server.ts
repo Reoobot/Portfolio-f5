@@ -1,6 +1,6 @@
 import express, { Request, Response } from "express"
 import cors from "cors"
-import router from './routers/portafolio'
+import router from './controllers/portafolioController'
 const app = express();
 
 app.use(cors())
@@ -13,7 +13,7 @@ const PORT = 3000;
     res.send('return the whole content of the portfolio');
 }) */
 
-app.use('/portfolio' ,router)
+app.use('/' ,router)
 
 app.listen(PORT, ()=>{
     console.log(`Server listening on port ${PORT}`)
