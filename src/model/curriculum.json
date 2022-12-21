@@ -1,17 +1,56 @@
-
-    
+{
+  "user": 
     {
-    "projects": {
-      "name": "Richard Hendricks",
-      "label": "CEO @piedpiper",
-      "image": "https://avatars0.githubusercontent.com/u/58340587?v=4",
-      "email": "",
-      "phone": "",
-      "url": "http://www.piedpiper.com",
-      "summary": "CEO of Pied Piper and working on a decentralized internet for everyonenternet of People™.",
-      "profiles": []
+      "id": "1",
+      "name": "Lautaro Llusa",
+      "label": "Full Stack Web Developer",
+      "email": "llusa.lautaro@gmail.com",
+      "profiles": [
+        {
+          "network": "GitHub",
+          "username": "talingo",
+          "url": "https://github.com/talingo"
+        },
+        {
+          "network": "LinkedIn",
+          "username": "Lautaro Llusa",
+          "url": "https://www.linkedin.com/in/lautaro-llusa-b8a01b209/"
+        }
+      ],
+      "skills": [
+        {
+          "name": "JavaScript",
+          "level": "Beginner",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "TypeScript",
+          "level": "Beginner",
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "React",
+          "level": "Beginner",
+          "yearsOfExperience": 1
+        }
+      ],
+      "projects": [
+        {
+          "name": "Killing Coders",
+          "description": "",
+          "url": "https://github.com/talingo/Killing-Coders",
+          "languages": [],
+          "githubUrl": "https://github.com/talingo/Killing-Coders",
+          "image": ""
+        },
+        {
+          "name": "FLEA",
+          "description": "",
+          "url": "https://github.com/talingo/Killing-Coders",
+          "languages": [],
+          "githubUrl": "https://github.com/talingo/FLEA-Landing-Page",
+          "image": ""
+        }
+      ]
     }
-        
-
-      }
-      
+}
